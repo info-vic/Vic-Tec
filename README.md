@@ -76,6 +76,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ---
 
+<span style="color:blue">some *blue* text</span>.
 <table border="3" bg_color=0d1117>
   <tr>
     <td>
