@@ -23,7 +23,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 ### :books: Learning
 
 #### I'm currently learning:
-- [![Python](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=python)](https://www.python.org/)
+- [![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)](https://www.python.org/)
 - [![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android)](https://www.android.com/)
 - [![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter)](https://flutter.dev/)
 
