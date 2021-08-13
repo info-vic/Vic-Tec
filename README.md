@@ -9,7 +9,6 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ### :hammer_and_wrench: Languages/Tools
 
-
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23efd81d?style=flat-square&logo=javascript&logoColor=000000)](https://www.w3schools.com/js/)
