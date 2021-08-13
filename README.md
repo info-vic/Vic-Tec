@@ -17,7 +17,8 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/pt-BR/)
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
-[![Trello](https://img.shields.io/badge/-Trello-007ACC?style=flat-square&logo=trello&logoColor=FFFFFF)](https://code.visualstudio.com
+[![Visual Studio Code](https://img.shields.io/badge/-NetBeans-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Trello](https://img.shields.io/badge/-Trello-007ACC?style=flat-square&logo=trello&logoColor=FFFFFF)](https://trello.com/pt-BR)
 
 
 ---
