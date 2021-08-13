@@ -32,7 +32,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 **Notes/Tasks**
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)](https://trello.com/)
-[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Evernote&logoColor=white)](https://trello.com/)
+[![Trello](https://img.shields.io/badge/Evernote-00a90e?style=flat-square&logo=Evernote&logoColor=white)](https://trello.com/)
 
 
 ---
@@ -43,7 +43,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 - [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
-### 🙃 Alredy have contact:
+### 🙃 Alredy have contact
 
 - [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
