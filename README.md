@@ -19,11 +19,11 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 **Frameworks, Platforms and Libraries**
 
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com//)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com//)
 
 **Design**
-
-**OOP**
+[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html)
+[![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/br/products/illustrator.html)
 
 
 
