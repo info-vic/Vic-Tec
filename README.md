@@ -43,8 +43,6 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 [![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/)
 [![DBeaver](https://img.shields.io/badge/DBeaver-45352f?style=flat-square)](https://dbeaver.io/)
-[![Tableau](https://img.shields.io/badge/Tableau-ffffff?style=flat-square)](https://www.tableau.com/)
-
 
 **Office**
 
@@ -70,6 +68,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 - [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 - [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+- [![Tableau](https://img.shields.io/badge/Tableau-ffffff?style=flat-square)](https://www.tableau.com/)
 
 ### 🙃 Alredy have contact
 
