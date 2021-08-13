@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Victor Leme
 
-I'm a BI intern at @necton-investimentos
+I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 <!--
 **Vic-Tec/Vic-Tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
