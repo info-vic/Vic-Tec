@@ -36,7 +36,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 **Databases**
 
-[![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/)
+[![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/)
 
 **Notes/Tasks**
 
@@ -54,7 +54,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ### 🙃 Alredy have contact
 
-- [![C++](![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](http://www.cplusplus.org/)
+- [![C++](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](http://www.cplusplus.org/)
 - [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin/)
 
 ---
