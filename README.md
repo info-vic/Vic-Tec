@@ -76,11 +76,10 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ---
 
-<span style="color:blue">some *blue* text</span>.
-<table border="3" bg_color=0d1117>
+<table border="3">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Tec&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Tec&show_icons=true&title_color=0d1117&icon_color=00d9ff&text_color=0d1117&bg_color=fff" alt="Top Languages" />
     </td>
     <td>
 <img src="https://github-readme-stats.vercel.app/api/?username=Vic-Tec&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
