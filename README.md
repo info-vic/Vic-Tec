@@ -19,7 +19,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 
 ---
-<!--
+
 ### :books: Learning
 
 #### I'm currently learning:
@@ -28,7 +28,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 - [![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter)](https://flutter.dev/)
 
 ---
-
+<!--
 <table border="3">
   <tr>
     <td>
