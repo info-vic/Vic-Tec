@@ -70,7 +70,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 - [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 - [![Tableau](https://img.shields.io/badge/Tableau-ffffff?style=flat-square)](https://www.tableau.com/)
 
-### 🙃 Alredy have contact
+### 🙃 Have seen before
 
 - [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](http://www.cplusplus.org/)
 - [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin/)
