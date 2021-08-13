@@ -42,6 +42,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 **Databases**
 
 [![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/)
+[![DBeaver](https://img.shields.io/badge/DBeaver-#45352f?style=flat-square)](https://dbeaver.io/)
 
 **Office**
 
