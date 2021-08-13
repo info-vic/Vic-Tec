@@ -30,8 +30,8 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 **IDES/Editors**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
-[![Sublime Text](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
-[![Netbeans](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 **Databases**
@@ -54,7 +54,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ### 🙃 Alredy have contact
 
-- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c++&logoColor=white)](http://www.cplusplus.org/)
+- [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](http://www.cplusplus.org/)
 - [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin/)
 
 ---
