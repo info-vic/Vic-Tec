@@ -16,7 +16,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
 [![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg??style=flat-square&logo=java&logoColor=WHITE)](https://www.java.com/pt-BR/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 **Frameworks, Platforms and Libraries**
 
