@@ -19,7 +19,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ---
 
-### :🌱: Learning
+### 🌱 Learning
 
 #### I'm currently learning:
 - [![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)](https://www.python.org/)
@@ -37,7 +37,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
   </tr>
 </table>
 
-
+<!--
 **Vic-Tec/Vic-Tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
