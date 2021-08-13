@@ -36,11 +36,17 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 **Version Control**
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 **Databases**
 
 [![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/)
+
+**Office**
+
+[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/word)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
 
 **Education**
 
@@ -58,6 +64,8 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 #### I'm currently learning:
 
 - [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+- [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+- [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 ### 🙃 Alredy have contact
 
