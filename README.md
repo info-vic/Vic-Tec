@@ -31,8 +31,9 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
 
 **Notes/Tasks**
+
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)](https://trello.com/)
-[![Trello](https://img.shields.io/badge/Evernote-00a90e?style=flat-square&logo=Evernote&logoColor=white)](https://trello.com/)
+[![Evernote](https://img.shields.io/badge/Evernote-00a90e?style=flat-square&logo=Evernote&logoColor=white)](https://www.evernote.com/client/web?)
 
 
 ---
