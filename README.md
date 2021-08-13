@@ -26,12 +26,13 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html)
 [![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/br/products/illustrator.html)
 
-
-
 **IDES/Editors**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
-[![Trello](https://img.shields.io/badge/-Trello-007ACC?style=flat-square&logo=trello&logoColor=FFFFFF)](https://code.visualstudio.com)
+
+**Notes/Tasks**
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)](https://trello.com/)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Evernote&logoColor=white)](https://trello.com/)
 
 
 ---
@@ -39,6 +40,11 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 ### 🌱 Learning
 
 #### I'm currently learning:
+
+- [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+
+### 🙃 Alredy have contact:
+
 - [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ---
