@@ -11,7 +11,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 **Web**
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23efd81d?style=flat-square&logo=javascript&logoColor=000000)](https://www.w3schools.com/js/)
 [![PHP](https://img.shields.io/badge/-PHP-%237377ad?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
@@ -19,10 +19,11 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 **Design**
 
+**OOP**
 
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg??style=flat-square&logo=java&logoColor=WHITE)](https://www.java.com/pt-BR/)
 
-
-[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/pt-BR/)
+**IDES/Editors**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
 [![Trello](https://img.shields.io/badge/-Trello-007ACC?style=flat-square&logo=trello&logoColor=FFFFFF)](https://code.visualstudio.com)
@@ -33,7 +34,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 ### 🌱 Learning
 
 #### I'm currently learning:
-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+- [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ---
 
