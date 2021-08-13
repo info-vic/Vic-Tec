@@ -54,7 +54,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ### 🙃 Alredy have contact
 
-- [![C++](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](http://www.cplusplus.org/)
+- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c++&logoColor=white)](http://www.cplusplus.org/)
 - [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin/)
 
 ---
