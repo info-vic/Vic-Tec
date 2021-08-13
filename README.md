@@ -28,14 +28,14 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 - [![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter)](https://flutter.dev/)
 
 ---
-<!--
+
 <table border="3">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Tec&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
     </td>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/?username=Vic-Tec&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
     </td>
   </tr>
 </table>
