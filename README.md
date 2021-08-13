@@ -7,7 +7,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ---
 
-### :hammer_and_wrench: Languages/Tools
+### :hammer_and_wrench: Tools
 
 **Programming Languages**
 
@@ -16,6 +16,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
 [![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg??style=flat-square&logo=java&logoColor=WHITE)](https://www.java.com/pt-BR/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 **Frameworks, Platforms and Libraries**
 
@@ -29,6 +30,13 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 **IDES/Editors**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Sublime Text](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Netbeans](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+**Databases**
+
+[![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/)
 
 **Notes/Tasks**
 
@@ -46,7 +54,8 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ### 🙃 Alredy have contact
 
-- [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+- [![C++](![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](http://www.cplusplus.org/)
+- [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin/)
 
 ---
 
