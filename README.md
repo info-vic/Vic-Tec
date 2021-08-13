@@ -76,7 +76,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ---
 
-<table border="3">
+<table border="3" style="background-color:#0d1117">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Tec&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
