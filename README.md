@@ -9,11 +9,19 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 ### :hammer_and_wrench: Languages/Tools
 
-[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
+**Web**
+
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23efd81d?style=flat-square&logo=javascript&logoColor=000000)](https://www.w3schools.com/js/)
 [![PHP](https://img.shields.io/badge/-PHP-%237377ad?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com//)
+
+**Design**
+
+
+
+
 [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/pt-BR/)
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
