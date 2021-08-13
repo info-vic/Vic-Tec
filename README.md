@@ -34,15 +34,22 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
+**Version Control**
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+
 **Databases**
 
 [![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/)
+
+**Education**
+
+[![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/)
 
 **Notes/Tasks**
 
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)](https://trello.com/)
 [![Evernote](https://img.shields.io/badge/Evernote-00a90e?style=flat-square&logo=Evernote&logoColor=white)](https://www.evernote.com/client/web?)
-
 
 ---
 
@@ -56,6 +63,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 - [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](http://www.cplusplus.org/)
 - [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin/)
+- [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
 
 ---
 
