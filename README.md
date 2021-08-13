@@ -13,7 +13,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23efd81d?style=flat-square&logo=javascript&logoColor=000000)](https://www.w3schools.com/js/)
 [![PHP](https://img.shields.io/badge/-PHP-%237377ad?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/-Java-%237377ad?style=flat-square&logo=java&logoColor=ffffff)](https://www.php.net/)
+[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/pt-BR/)
 
 
 ---
