@@ -24,8 +24,8 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 
 **Design**
 
-[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html)
-[![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/br/products/illustrator.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/br/products/illustrator.html)
 
 **IDES/Editors**
 
