@@ -75,6 +75,8 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 - [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](http://www.cplusplus.org/)
 - [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin/)
 - [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
+- [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+- [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://pt-br.reactjs.org/)
 
 ---
 
