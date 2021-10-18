@@ -68,7 +68,7 @@ I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
 - [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 - [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-- [![Tableau](https://img.shields.io/badge/Tableau-ffffff?style=flat-square)](https://www.tableau.com/)
+- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-squaree&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 - [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 - [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://pt-br.reactjs.org/)
 
