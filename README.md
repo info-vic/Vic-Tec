@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm **_Victor Leme_**
 
-I'm a BI intern at [@necton-investimentos](https://www.necton.com.br/)
+I'm a IT assistant at [@BTGPactual](https://github.com/BTGPactual)
 
 **Social**
 
