@@ -1,7 +1,5 @@
 ### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm **_Victor Leme_**
 
-I'm a IT assistant at [@BTGPactual](https://github.com/BTGPactual)
-
 **Social**
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorleme/)](https://www.linkedin.com/in/victorleme/)
