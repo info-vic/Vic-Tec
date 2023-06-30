@@ -15,11 +15,17 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
 [![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg??style=flat-square&logo=java&logoColor=WHITE)](https://www.java.com/pt-BR/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 **Frameworks, Platforms and Libraries**
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com//)
+
+**Analytics**
+
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-squaree&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/pt-br/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-squaree&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 
 **Design**
 
@@ -63,10 +69,9 @@
 
 #### I'm currently learning:
 
-- [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+- [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 - [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-squaree&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 - [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 - [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://pt-br.reactjs.org/)
 
