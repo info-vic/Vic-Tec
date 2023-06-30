@@ -69,7 +69,7 @@
 
 #### I'm currently learning:
 
-- [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+- [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
 - [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 - [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
