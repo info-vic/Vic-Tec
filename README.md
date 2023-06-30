@@ -24,7 +24,7 @@
 
 **Analytics**
 
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-squaree&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/pt-br/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-squaree&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/pt-br/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-squaree&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 
 **Design**
