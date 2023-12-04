@@ -86,7 +86,7 @@
 <table border="3">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=~info-vic&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=info-vic&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
     </td>
     <td>
 <img src="https://github-readme-stats.vercel.app/api/?username=info-vic&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
