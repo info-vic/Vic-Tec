@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm **_Victor Leme_**
+### Hi there 👋, I'm **_Victor Leme_**
 
 **Social**
 
