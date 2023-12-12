@@ -1,5 +1,7 @@
 ### Hello, World 👋🌎, I'm **_Victor Leme_**
 
+-> Pinned repositories have readme files available in English (en-us) and Portuguese (pt-br).
+
 **Social**
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorleme/)](https://www.linkedin.com/in/victorleme/)
